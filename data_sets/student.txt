@@ -1,0 +1,5 @@
+"101","shibil","bca","majlis"
+"102","irshad","bba","majlis"
+"103","siyad","multi","majlis"
+"104","ramu","science","majlis"
+"105","rahul","bcom","majlis"

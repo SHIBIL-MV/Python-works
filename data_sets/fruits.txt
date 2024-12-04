@@ -1,0 +1,6 @@
+apple
+grape
+pinaapple
+orange
+mango
+kivi
